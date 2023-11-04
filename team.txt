@@ -1,2 +1,3 @@
-team lead : arief
-staff     : available
+team lead : Arief
+staff     : Available
+staff 2   : Available
